@@ -1,12 +1,12 @@
 # Naam Jap Counter - Mala Privacy Policy
 
-Last updated: 17 October 2026
+Last updated: 22 October 2026
 
 Naam Jap Counter - Mala is a devotional counting app. You can use manual counting without an account or internet connection. This policy describes the Android app with package name `com.naamjap.mala`.
 
 ## Practice information
 
-The app saves your selected and custom mantras, counts, practice history, goals, daily intention, voice language and phrase, reminder settings, and other preferences on your device. The developer does not receive these practice records. Android cloud backup is disabled. You can remove the records by clearing the app's storage or uninstalling the app.
+The app saves your selected and custom mantras, counts, completed-session summaries and durations, practice history, favourites and recent mantras, goals, daily intention, voice language and phrase, reminder settings, temporary appearance rewards, ad-frequency state, and other preferences on your device. The developer does not receive these practice records. Android cloud backup is disabled. You can remove the records by clearing the app's storage or uninstalling the app.
 
 ## Voice practice
 
@@ -14,9 +14,9 @@ Voice practice is optional. The app asks for microphone permission when you star
 
 ## Advertising and consent
 
-The app includes Google Mobile Ads and Google's User Messaging Platform. The app requests a consent update when ads are configured, and requests ads only when Google's consent SDK says it may do so. Ads may include a banner and an interstitial after a completed practice milestone. Google may process IP address, device and advertising identifiers, app and device information, diagnostics, ad requests, and ad interactions for ad delivery, measurement, fraud prevention, and consent management. See [Google's Privacy Policy](https://policies.google.com/privacy) and [Google Mobile Ads SDK disclosure](https://developers.google.com/admob/android/privacy).
+The app includes Google Mobile Ads and Google's User Messaging Platform. The app requests a consent update when ads are configured, and requests ads only when Google's consent SDK says it may do so. Version 1.8 configures a banner on the Mantras screen, a native ad after Progress content, an occasional interstitial after an eligible completed session, and an optional rewarded ad for an amber mala appearance lasting 24 hours. Ads do not change chant totals or streaks. Manual practice remains available when an ad is unavailable or declined. The app does not pass your mantras, religious choices, practice records, intentions, audio, or transcripts to advertising requests or a developer analytics service. Google may process IP address, device and advertising identifiers, app and device information, diagnostics, ad requests, and ad interactions for ad delivery, measurement, fraud prevention, and consent management. See [Google's Privacy Policy](https://policies.google.com/privacy) and [Google Mobile Ads SDK disclosure](https://developers.google.com/admob/android/privacy).
 
-The current 1.6 closed-testing build has no production ad IDs configured, so it does not request or display ads. The ad-related collection described above applies when a later build has live ad IDs. We will update this policy and Play disclosures as the configuration changes.
+Earlier versions 1.6 and 1.7 have no production ad IDs configured. Version 1.8 has production ad IDs; actual ad availability also depends on consent, network access, and Google's app review and serving decisions. When required by Google's consent service, Settings provides Privacy choices to review or withdraw consent. Optional appearance rewards are stored locally and are not transferable or redeemable for money.
 
 ## Reminders
 
